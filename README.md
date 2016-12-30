@@ -1,5 +1,5 @@
-![📘](/heroku-logo.jpg)
-#A PHP WebHosting on Heroku!
+![](/heroku-logo.jpg)
+#A PHP Web🚪Hosting on Heroku
 - Download Heroku Toolbelt ~ an Account with heroku ~ Heroku login with CMD
 - Run 'heroku' from CLI 
 - ![](/heroku.png)
