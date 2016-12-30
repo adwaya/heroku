@@ -1,3 +1,4 @@
+[](/heroku-logo.jpg)
 #A Sample WebHosting on Heroku!
 - Download Heroku Toolbelt | an Account with heroku | Heroku login with CMD
 - Run heroku from CLI ![](/heroku.png)
