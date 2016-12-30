@@ -1,4 +1,4 @@
-![](/heroku-logo.jpg)
+![📘](/heroku-logo.jpg)
 #A PHP WebHosting on Heroku!
 - Download Heroku Toolbelt ~ an Account with heroku ~ Heroku login with CMD
 - Run 'heroku' from CLI 
