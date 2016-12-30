@@ -1,12 +1,13 @@
 ![](/heroku-logo.jpg)
 #A Sample WebHosting on Heroku!
-- Download Heroku Toolbelt | an Account with heroku | Heroku login with CMD
-- Run 'heroku' from CLI ![](/heroku.png)
+- Download Heroku Toolbelt ~ an Account with heroku ~ Heroku login with CMD
+- Run 'heroku' from CLI 
+- ![](/heroku.png)
 - Clone the files to your local machine 'git clone git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git'
 - ![](/heroku1.png)
 - Run `heroku create` to create an app
 - ![](/heroku2.png)
-- Goto the checkout folder and create a PHP file, pointing to 'index.html' or 'home.html'
+- Goto the checkout folder and create a PHP file named `index.php`, pointing to 'index.html' or 'home.html'
 ```
 <?php include_once("index.html");?>
 ```
