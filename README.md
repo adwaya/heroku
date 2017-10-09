@@ -1,9 +1,9 @@
 ![](/heroku-logo.jpg)
 #A PHP Web🚪Hosting on Heroku
 - Download Heroku Toolbelt ~ an Account with heroku ~ Heroku login with CMD
-- Run 'heroku' from CLI 
+- Run `heroku` from CLI 
 - ![](/heroku.png)
-- Clone the files to your local machine 'git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git'
+- Clone the files to your local machine `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
 - ![](/heroku1.png)
 - Run `heroku create` to create an app
 - ![](/heroku2.png)
